@@ -1,10 +1,10 @@
 # Python Object Oriented Programming by Joe Marini course example
 # Using Abstract Base Classes to implement interfaces
-
+# carlllllll
 from abc import ABC, abstractmethod
 
 # joseph is the best student and a the aothers 
-
+# joe
 class GraphicShape(ABC):
     def __init__(self):
         super().__init__()
