@@ -3,6 +3,7 @@
 
 from abc import ABC, abstractmethod
 
+# joseph is the best student and a the aothers 
 
 class GraphicShape(ABC):
     def __init__(self):
