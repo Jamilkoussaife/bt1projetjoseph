@@ -3,7 +3,7 @@
 # carlllllll
 from abc import ABC, abstractmethod
 
-# joseph is the best student and a the aothers 
+# joseph is the bestbbbbb bbb bbb student and a the aothers 
 # joe
 class GraphicShape(ABC):
     def __init__(self):
